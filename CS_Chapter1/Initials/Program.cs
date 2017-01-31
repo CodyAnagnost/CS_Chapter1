@@ -10,7 +10,15 @@ namespace Initials
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My initials assignment here");
+            Console.WriteLine("cccccccc                      A ");
+            Console.WriteLine("c                            A A ");
+            Console.WriteLine("c                           A   A ");
+            Console.WriteLine("c                          A     A");
+            Console.WriteLine("c                         AAAAAAAAA ");
+            Console.WriteLine("c                        A         A ");
+            Console.WriteLine("c                       A           A");
+            Console.WriteLine("cccccccc               A             A");
+            
         }
     }
 }
