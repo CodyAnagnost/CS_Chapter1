@@ -10,6 +10,8 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Milk tastes like water");
+            Console.WriteLine("- Devon Del Moral");
         }
     }
 }
