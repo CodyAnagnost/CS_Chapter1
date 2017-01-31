@@ -10,6 +10,7 @@ namespace Initials
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("My initials assignment here");
         }
     }
 }
